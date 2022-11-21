@@ -1,0 +1,4 @@
+namespace: kustomizetest
+
+resources:
+  - ../nginx/infra-preprod.yml
