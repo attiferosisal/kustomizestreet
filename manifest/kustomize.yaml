@@ -1,4 +1,4 @@
 namespace: kustomizetest
 
 resources:
-  - ../nginx/infra-preprod.yml
+  - infra-preprod.yml
