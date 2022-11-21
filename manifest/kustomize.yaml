@@ -1,4 +1,0 @@
-namespace: kustomizetest
-
-resources:
-  - infra-preprod.yml

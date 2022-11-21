@@ -1,0 +1,4 @@
+namespace: kustomizetest
+
+resources:
+  - ../ngix-service/nginx-deployment.yaml
