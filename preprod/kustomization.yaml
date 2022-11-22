@@ -5,4 +5,4 @@ namespace: kustomizetest
 
 resources:
   - nginx-service/nginx-deployment.yaml
-  - nginx-service/nginx-deployment-old.yaml
+  #- nginx-service/nginx-deployment-old.yaml
