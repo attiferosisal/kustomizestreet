@@ -1,4 +1,4 @@
 namespace: kustomizetest
 
 resources:
-  - manifest/ngix-service/nginx-deployment.yaml
+  - manifest/nginx-service/nginx-deployment.yaml
